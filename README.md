@@ -1,4 +1,5 @@
 # nts-1-customizations
+update : added Boochow fixes
 
 Official repository for hardware customizations of the [Nu:Tekt NTS-1 digital kit](https://www.korg.com/nts_1) programmable synthesizer. 
 
